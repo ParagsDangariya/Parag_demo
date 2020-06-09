@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Parag_demo/static/css/main.6e3b1212.chunk.css",
+    "main.js": "/Parag_demo/static/js/main.9d660f11.chunk.js",
+    "main.js.map": "/Parag_demo/static/js/main.9d660f11.chunk.js.map",
+    "runtime-main.js": "/Parag_demo/static/js/runtime-main.91c36c8a.js",
+    "runtime-main.js.map": "/Parag_demo/static/js/runtime-main.91c36c8a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Parag_demo/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.67a03bd2.chunk.js": "/Parag_demo/static/js/2.67a03bd2.chunk.js",
+    "static/js/2.67a03bd2.chunk.js.map": "/Parag_demo/static/js/2.67a03bd2.chunk.js.map",
+    "index.html": "/Parag_demo/index.html",
+    "precache-manifest.ed58eb6cd3b3e9762953e578ccadf440.js": "/Parag_demo/precache-manifest.ed58eb6cd3b3e9762953e578ccadf440.js",
+    "service-worker.js": "/Parag_demo/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Parag_demo/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6e3b1212.chunk.css.map": "/Parag_demo/static/css/main.6e3b1212.chunk.css.map",
+    "static/js/2.67a03bd2.chunk.js.LICENSE.txt": "/Parag_demo/static/js/2.67a03bd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91c36c8a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.67a03bd2.chunk.js",
+    "static/css/main.6e3b1212.chunk.css",
+    "static/js/main.9d660f11.chunk.js"
+  ]
+}
